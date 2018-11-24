@@ -1,2 +1,0 @@
-# ChocoChip
-ChocoChip
